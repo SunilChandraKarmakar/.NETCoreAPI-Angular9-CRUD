@@ -1,0 +1,15 @@
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Database.deps.json
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Database.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.csprojAssemblyReference.cache
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.AssemblyInfoInputs.cache
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.AssemblyInfo.cs
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Database.pdb
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Model.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Model.pdb
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.csproj.CopyComplete
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.pdb
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Database.runtimeconfig.json
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Database.runtimeconfig.dev.json
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.csproj.CoreCompileInputs.cache
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI.Database\obj\Debug\netcoreapp3.1\PaymentSystemAPI.Database.genruntimeconfig.cache
