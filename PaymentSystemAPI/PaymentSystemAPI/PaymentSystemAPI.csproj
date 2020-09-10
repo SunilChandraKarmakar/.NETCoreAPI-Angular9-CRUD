@@ -5,7 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PaymentSystemAPI.Database\PaymentSystemAPI.Database.csproj" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentSystemAPI.Manager\PaymentSystemAPI.Manager.csproj" />
+    <ProjectReference Include="..\PaymentSystemAPI.Model\PaymentSystemAPI.Model.csproj" />
   </ItemGroup>
 
 

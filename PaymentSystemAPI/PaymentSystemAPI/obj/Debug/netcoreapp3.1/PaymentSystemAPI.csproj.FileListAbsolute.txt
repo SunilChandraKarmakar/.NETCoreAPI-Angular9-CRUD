@@ -38,8 +38,6 @@ F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\De
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Database.pdb
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Model.pdb
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\obj\Debug\netcoreapp3.1\PaymentSystemAPI.csproj.CopyComplete
-F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\obj\Debug\netcoreapp3.1\PaymentSystemAPI.csproj.CoreCompileInputs.cache
-F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\obj\Debug\netcoreapp3.1\PaymentSystemAPI.MvcApplicationPartsAssemblyInfo.cache
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
@@ -62,3 +60,11 @@ F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\De
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Manager.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Repository.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Manager.pdb
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\PaymentSystemAPI.Repository.pdb
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\obj\Debug\netcoreapp3.1\PaymentSystemAPI.csproj.CoreCompileInputs.cache
+F:\C# Project\.NETCoreAPI-Angular9-CRUD\PaymentSystemAPI\PaymentSystemAPI\obj\Debug\netcoreapp3.1\PaymentSystemAPI.MvcApplicationPartsAssemblyInfo.cache
