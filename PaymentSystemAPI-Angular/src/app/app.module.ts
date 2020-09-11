@@ -7,6 +7,8 @@ import { PaymentDetailComponent } from './components/payment-detail/payment-deta
 import { PaymentDetailListComponent } from './components/payment-detail/payment-detail-list/payment-detail-list.component';
 import { PaymentDetailCreateComponent } from './components/payment-detail/payment-detail-create/payment-detail-create.component';
 
+import { FormsModule } from '@angular/forms';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,9 +18,10 @@ import { PaymentDetailCreateComponent } from './components/payment-detail/paymen
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [PaymentDetailComponent]
 })
 export class AppModule { }
